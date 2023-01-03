@@ -24,8 +24,8 @@ https://aws.amazon.com/blogs/developer/deploying-aws-chalice-application-using-a
 
 ## Projected volumes
 
-https://kubernetes.io/docs/concepts/storage/projected-volumes/
-https://github.com/kubernetes/enhancements/tree/master/keps/sig-storage/1979-object-storage-support
+- https://kubernetes.io/docs/concepts/storage/projected-volumes/
+- https://github.com/kubernetes/enhancements/tree/master/keps/sig-storage/1979-object-storage-support
 
 ## Helm
 
