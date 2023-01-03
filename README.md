@@ -7,6 +7,7 @@ This repo is storage for notes, articles and blog posts.
 - https://www.acorn.io/
 - https://epinio.io/
 - https://carvel.dev/kapp/
+- https://porter.sh/
 
 
 https://aws.amazon.com/blogs/developer/deploying-aws-chalice-application-using-aws-cloud-development-kit/
@@ -19,6 +20,12 @@ https://aws.amazon.com/blogs/developer/deploying-aws-chalice-application-using-a
 - https://gitlab.com/users/sign_in
 - https://www.jenkins.io/
 - https://gitea.io/
+
+
+## Projected volumes
+
+https://kubernetes.io/docs/concepts/storage/projected-volumes/
+https://github.com/kubernetes/enhancements/tree/master/keps/sig-storage/1979-object-storage-support
 
 ## Helm
 
@@ -51,3 +58,4 @@ https://github.com/aws-controllers-k8s/community/blob/main/docs/design/proposals
 
 - https://crossplane.io/
 - https://servicebinding.io/
+- https://github.com/kloeckner-i/db-operator
